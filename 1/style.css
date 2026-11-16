@@ -1,0 +1,7 @@
+.interior{
+    opacity: 0;
+}
+
+.interior:hover{
+    opacity: 1;
+}
